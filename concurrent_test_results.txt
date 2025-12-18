@@ -1,0 +1,6 @@
+Concurrent Load Test Results
+Generated: 2025-12-18 13:32:34.006767
+Total Requests: 100
+
+gRPC Average: 2351.84 ms
+REST Average: 2343.69 ms
